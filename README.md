@@ -57,6 +57,7 @@ PACFLIX/
    ```
    python main.py
    ```
+<img width="240" height="104" alt="image" src="https://github.com/user-attachments/assets/c315e0f6-9ead-4c48-a82b-37a9e44265dd" />
 
 ## Teknologi yang Digunakan
 
